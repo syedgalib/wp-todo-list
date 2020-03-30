@@ -9,7 +9,6 @@
     ],
     "license": "GPL-3.0-or-later",
     "minimum-stability": "dev",
-    version: "0.1.0",
     "require": {},
 
     "autoload": {
