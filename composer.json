@@ -1,6 +1,6 @@
 {
     "name": "wp-todo-list/wp-todo-list",
-    "description": "A simple but advanced directory listing plugin for Wordpress",
+    "description": "A starter plugin for WordPress",
     "authors": [
         {
             "name": "Syed Galib",
