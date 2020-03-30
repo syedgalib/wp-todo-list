@@ -7,6 +7,8 @@
             "email": "syedgalibahmed@hotmail.com"
         }
     ],
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "dev",
     "require": {},
 
     "autoload": {
